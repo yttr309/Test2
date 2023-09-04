@@ -9,3 +9,6 @@ git commit -m "v-"
 git log
 git checkout hashcode
 git checkout -
+git branch -M main
+git remove add origin address
+git push -u origin main
