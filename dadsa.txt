@@ -1,0 +1,14 @@
+week02
+- linux command : ls, ls -al, pwd, cd .git, cd.., echo "" >> filename, cat filename
+- git command
+git init
+git status
+git config --global
+git add
+git commit -m ""
+git log
+git checkout hashcode
+git checkout -
+git branch -M main
+git remote add origin address
+git push -u origin main
