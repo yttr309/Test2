@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 week02
 - linux command : ls, ls -al, pwd, cd .git, cd.., echo "" >> filename, cat filename
 - git command
@@ -11,4 +12,19 @@ git checkout hashcode
 git checkout -
 git branch -M main
 git remote add origin address
+=======
+week02
+- linux command : ls, ls -al, pwd, cd .git, cd.., echo "" >> filename, cat filename
+- git command
+git init
+git status
+git config --global
+git add
+git commit -m ""
+git log
+git checkout hashcode
+git checkout -
+git branch -M main
+git remote add origin address
+>>>>>>> cfcf2b62cd9e2e47e54025f693b69014af0f07bc
 git push -u origin main
